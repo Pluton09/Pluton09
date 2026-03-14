@@ -7,7 +7,7 @@
 
 * 🎓 Mahasiswa Sistem Informasi
 * 💻 Belajar Web Development
-* 🌱 Sedang belajar JavaScript & Backend
+* 🌱 Sedang belajar Front End
 * 🎯 Goal: Menjadi Fullstack Developer
 
 ---
